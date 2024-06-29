@@ -28,3 +28,13 @@ git commit -m 'Comment'
 ```yaml 
 git push
 ```
+- Для добавление улучшений используем новую ветку. Команда для создания и переключения на новую ветку
+```yaml 
+git checkout -b feature_branch_name
+```
+- После завершения доработок делаем коммит и сохраняем на github c созданием там соответствубщей ветки
+```yaml 
+git push --set-upstream origin feature_branch_name
+```
+- Создаем пул-реквест в интерфейсе github
+
