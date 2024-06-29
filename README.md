@@ -24,4 +24,7 @@ git add
 ```yaml 
 git commit -m 'Comment'
 ```
-
+- Для отправки изменений в репозиторий github используем команду 
+```yaml 
+git push
+```
