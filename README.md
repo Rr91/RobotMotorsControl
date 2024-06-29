@@ -22,6 +22,6 @@ git add
 ```
 - Далее делаем коммит для сохранения изменений
 ```yaml 
-git commit -m
+git commit -m 'Comment'
 ```
 
